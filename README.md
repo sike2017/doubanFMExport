@@ -11,5 +11,7 @@
 > 可在config/config.json中通过更改downloadPath或-od参数控制脚本下载目录
 
 使用方式:
+
   python doubanFMExport.py -Du "你的豆瓣电台用户名"
+  
   python doubanFMExport.py -od "下载路径"
