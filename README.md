@@ -12,6 +12,8 @@
 
 使用方式:
 
+  > -od参数和-Du参数不可同时使用
+
   python doubanFMExport.py -Du "你的豆瓣电台用户名"
   
   python doubanFMExport.py -od "下载路径"
