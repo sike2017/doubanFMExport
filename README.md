@@ -5,7 +5,6 @@
 
 > 需在python3下运行
 
-> Linux下可用, Windows下尚未测试
 
 > 默认会下载到脚本目录下的download目录下
 > 可在config/config.json中通过更改downloadPath或-od参数控制脚本下载目录
